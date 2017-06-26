@@ -131,6 +131,12 @@ window.VUELOG_DATABASE = {
   posts: [
     // 2017
     {
+      title: 'git inside --simplified --part 2',
+      slug: 'git-inside-simplified-part-2',
+      category: 'articles',
+      date: '2017-06-28'
+    },
+    {
       title: 'git inside --simplified --part 1',
       slug: 'git-inside-simplified-part-1',
       category: 'articles',
